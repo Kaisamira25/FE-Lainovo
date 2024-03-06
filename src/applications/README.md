@@ -1,0 +1,1 @@
+Create components for the body and put in this folder and after finish you will call it in final jsx to use it for pages folder
